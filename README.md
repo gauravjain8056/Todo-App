@@ -20,10 +20,6 @@ A simple and user-friendly task management application built using **HTML**, **C
 4. Click the **Add** button to add the task to the list.
 5. Tasks can be deleted by clicking the **Delete** button.
 
-## 🖼️ Demo
-- Task: "Buy Milk" on 4/10/2023
-- Task: "Go to College" on 4/10/2023
-
 ## 🌱 Future Enhancements
 - Add an **Edit** option for tasks.
 - Incorporate a **filter** for tasks by date or completion status.
